@@ -1,4 +1,4 @@
-# WoRMS
+# WORMS
 Game worms  
 It's project in progress.   
 
